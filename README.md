@@ -25,10 +25,7 @@ Soy un desarrollador con conocimientos medios en diversas tecnologías y lenguaj
   ![Excel](https://img.shields.io/badge/-Excel-217346?&logo=microsoft-excel)
   ![Power BI](https://img.shields.io/badge/-Power%20BI-A6890C?&logo=power-bi)
   
-## 📈 Estadísticas de GitHub
 
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=RodrigoAranzaens2000&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAranzaens2000&layout=compact&theme=radical)
 
 ## 📫 Cómo contactarme
 
